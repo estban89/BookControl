@@ -1,0 +1,15 @@
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Persistence\bin\Debug\net8.0\BookControl.Persistence.deps.json
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Persistence\bin\Debug\net8.0\BookControl.Persistence.dll
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Persistence\bin\Debug\net8.0\BookControl.Persistence.pdb
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Persistence\bin\Debug\net8.0\BookControl.Entities.dll
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Persistence\bin\Debug\net8.0\BookControl.Entities.pdb
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Persistence\obj\Debug\net8.0\BookControl.Persistence.csproj.AssemblyReference.cache
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Persistence\obj\Debug\net8.0\BookControl.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Persistence\obj\Debug\net8.0\BookControl.Persistence.AssemblyInfoInputs.cache
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Persistence\obj\Debug\net8.0\BookControl.Persistence.AssemblyInfo.cs
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Persistence\obj\Debug\net8.0\BookControl.Persistence.csproj.CoreCompileInputs.cache
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Persistence\obj\Debug\net8.0\BookControl.Persistence.csproj.CopyComplete
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Persistence\obj\Debug\net8.0\BookControl.Persistence.dll
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Persistence\obj\Debug\net8.0\refint\BookControl.Persistence.dll
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Persistence\obj\Debug\net8.0\BookControl.Persistence.pdb
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Persistence\obj\Debug\net8.0\ref\BookControl.Persistence.dll

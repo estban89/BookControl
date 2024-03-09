@@ -1,0 +1,12 @@
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Entities\bin\Debug\net8.0\BookControl.Entities.deps.json
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Entities\bin\Debug\net8.0\BookControl.Entities.dll
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Entities\bin\Debug\net8.0\BookControl.Entities.pdb
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Entities\obj\Debug\net8.0\BookControl.Entities.csproj.AssemblyReference.cache
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Entities\obj\Debug\net8.0\BookControl.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Entities\obj\Debug\net8.0\BookControl.Entities.AssemblyInfoInputs.cache
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Entities\obj\Debug\net8.0\BookControl.Entities.AssemblyInfo.cs
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Entities\obj\Debug\net8.0\BookControl.Entities.csproj.CoreCompileInputs.cache
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Entities\obj\Debug\net8.0\BookControl.Entities.dll
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Entities\obj\Debug\net8.0\refint\BookControl.Entities.dll
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Entities\obj\Debug\net8.0\BookControl.Entities.pdb
+D:\Respaldo\Instaladores_Curso\CursoMitoCode\.Net\BookControl\BookControl.Entities\obj\Debug\net8.0\ref\BookControl.Entities.dll
